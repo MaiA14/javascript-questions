@@ -33,4 +33,22 @@
     JavaScript is single threaded and only one line of code can be executed at any given time. 
 11) **Let's say you have complex calculation where will you calculate it?**\
     Web Workers makes it possible to run a script operation in a background thread separate from the main execution thread of a web application.
-    
+12) **What is debounce function?**\
+    The debounce() function forces a function to wait a certain amount of time before running again. The function is built to limit the number of times a function is called.
+    A quick example:  you have a resize listener on the window which does some element dimension calculations and (possibly)  repositions a few elements.  That isn't a heavy 
+    task in itself but being repeatedly fired after numerous resizes will really slow your site down.  
+13) **What is the difference between classical inheritance and prototypal inheritance?**\
+    - Class Inheritance: instances inherit from classes (like a blueprint — a description of the class), and create sub-class relationships: hierarchical class taxonomies.
+      Instances are typically instantiated via constructor functions with the `new` keyword. Class inheritance may or may not use the `class` keyword from ES6.
+    - Prototypal Inheritance: instances inherit directly from other objects. Instances are typically instantiated via factory functions or `Object.create()`. 
+      Instances may be   composed from many different objects, allowing for easy selective inheritance.
+14) **Angular vs React**\
+     React seems simpler at first sight, and it takes less time to start working on a React project. However, that simplicity as the main advantage of React is neutralized 
+     because you have to learn to work with additional JavaScript frameworks and tools. Angular itself is more complex and takes quite some time to master.
+15) **Suppose the server sends a ping every so often. How will the client communicate with him?**\
+    setTimeout, Promises, async await.
+16) **What is the difference between Subject and BehaviorSubject?\**
+    A BehaviorSubject holds one value. When it is subscribed it emits the value immediately. A Subject doesn't hold a value.
+17) **What is change detection?\**
+    Angular includes a mechanism that detects change detection loops. In development mode, the framework runs change detection twice to check if the value has changed since 
+    the first run. In production mode change detection is only run once to have a better performance.
