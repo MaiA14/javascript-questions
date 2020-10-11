@@ -47,8 +47,8 @@
      because you have to learn to work with additional JavaScript frameworks and tools. Angular itself is more complex and takes quite some time to master.
 15) **Suppose the server sends a ping every so often. How will the client communicate with him?**\
     setTimeout, Promises, async await.
-16) **What is the difference between Subject and BehaviorSubject?\**
+16) **What is the difference between Subject and BehaviorSubject?**\
     A BehaviorSubject holds one value. When it is subscribed it emits the value immediately. A Subject doesn't hold a value.
-17) **What is change detection?\**
+17) **What is change detection?**\
     Angular includes a mechanism that detects change detection loops. In development mode, the framework runs change detection twice to check if the value has changed since 
     the first run. In production mode change detection is only run once to have a better performance.
