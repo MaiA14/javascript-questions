@@ -8,7 +8,7 @@
 3) **What are the advantages of typescript? give examples to features in ts.**
    - Code scalability with “Interface oriented development”
    - TypeScript helps you dealing with growing teams.
-   - Types have a proven ability to enhance code quality and understandability.
+   - Types have a proven ability to enhance code quality and understandability.\
    features: interefaces.
 4) **What is the difference between switchmap and mergemap?**\
   switchMap cancels previous HTTP requests that are still in progress, while mergeMap lets all of them finish. 
