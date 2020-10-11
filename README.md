@@ -5,7 +5,7 @@
    variable in comparison to let.
 2) **What is hoisting?**\
   Hoisting is a JavaScript mechanism where variables and function declarations are moved to the top of their scope before code execution. Inevitably, this means that no matter where functions and variables are declared, they are moved to the top of their scope regardless of whether their scope is global or local.
-3) **What are the advantages of typescript? give examples to features in ts.**\
+3) **What are the advantages of typescript? give examples to features in ts.**
    - Code scalability with “Interface oriented development”
    - TypeScript helps you dealing with growing teams.
    - Types have a proven ability to enhance code quality and understandability.
