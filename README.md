@@ -1,4 +1,4 @@
-# js-ques
+# JavaScript questions
 
 1) **What is var let and Const in Javascript?**\
    All of those are diffrenet ways to define variables while var is in global scope, let and const are in block scope. const is useable when you are not willing to change your
