@@ -58,5 +58,5 @@
 19)  **What is cors?**\
       Cross-Origin Resource Sharing (CORS) is a mechanism that uses additional HTTP headers to tell browsers to give a web application running at one origin, access to
       selected resources from a different origin. 
-20)  **What is AJAX?*\
+20)  **What is AJAX?**\
       AJAX = Asynchronous JavaScript And XM. A browser built-in XMLHttpRequest object (to request data from a web server) JavaScript and HTML DOM (to display or use the data)
