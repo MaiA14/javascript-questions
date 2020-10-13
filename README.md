@@ -52,3 +52,11 @@
 17) **What is change detection?**\
     Angular includes a mechanism that detects change detection loops. In development mode, the framework runs change detection twice to check if the value has changed since 
     the first run. In production mode change detection is only run once to have a better performance.
+18) **What is Axios?**\
+     Axios is a popular, promise-based HTTP client that sports an easy-to-use API and can be used in both the browser and Node. ... Making HTTP requests to fetch or save data
+     is one of the most common tasks a client-side JavaScript application will need to do.
+19)  **What is cors?**\
+      Cross-Origin Resource Sharing (CORS) is a mechanism that uses additional HTTP headers to tell browsers to give a web application running at one origin, access to
+      selected resources from a different origin. 
+20)  **What is AJAX?*\
+      AJAX = Asynchronous JavaScript And XM. A browser built-in XMLHttpRequest object (to request data from a web server) JavaScript and HTML DOM (to display or use the data)
