@@ -33,7 +33,7 @@
 11) **Suppose the server sends a ping every so often. How will the client communicate with him?**\
     setTimeout, Promises, async await.
 12) **What is Axios?**\
-     Axios is a popular, promise-based HTTP client that sports an easy-to-use API and can be used in both the browser and Node. ... Making HTTP requests to fetch or save data
+     Axios is a popular, promise-based HTTP client that supports an easy-to-use API and can be used in both the browser and Node. ... Making HTTP requests to fetch or save data
      is one of the most common tasks a client-side JavaScript application will need to do.
 13)  **What is cors?**\
       Cross-Origin Resource Sharing (CORS) is a mechanism that uses additional HTTP headers to tell browsers to give a web application running at one origin, access to
